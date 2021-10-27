@@ -13,7 +13,7 @@ $("#open").click(function(){
 			"&nbsp;&nbsp;&nbsp;&nbsp; Anh biết là trong 2 năm qua, em thì ngày càng hoàn thiện hơn, còn anh giống như giậm chân tại chỗ. Kết quả học tập của anh không được tốt như của em. Anh cũng không kiếm việc làm để kiếm tiền như em. Anh cũng cố hết sức, không để em phải đợi anh, anh cảm nhận được em nghĩ anh là người không biết suy nghĩ, mãi không lớn nổi trong mỗi lần em nói “Em phải đợi anh đến khi mô”. Anh biết ở hiện tại anh không xứng với em tí nào, không đạt được những kì vọng của em, điều đó luôn làm em cả thấy buồn và khó chịu. Nhưng mong rằng",
 			"em hãy luôn tin ở anh, anh sẽ làm được cả thôi, những ước mơ hay mục tiêu mà anh đặt ra và hướng đến. <br>&nbsp;&nbsp;&nbsp;&nbsp; Làm người yêu của em thật tuyệt, nên là anh không muốn ta chỉ có 2 năm, 3 năm hay 5 năm, anh muốn đến khi làm chồng em. Thật tuyệt khi có em luôn ở bên và trải qua mọi chuyện cùng anh. Anh sẽ luôn cố gắng thay đổi để không làm em buồn và khó chịu nữa, cố gắng hơn để ta có một cuộc sống tốt. Cùng anh vượt qua khoảng thời gian đối với anh là khó khăn này nha. Hãy luôn ở bên nhau, cùng nhau đi tiếp và",
 			"cùng nhau trải qua nhiều ngày kỉ niệm hơn nữa nha em.<br>&nbsp;&nbsp;&nbsp;&nbsp; Chúc mừng kỉ niệm hai năm yêu nhau của ta!!!<br><br><p style='float:right; display:block; width:120px;'>Anh Yêu Em</p>"],
-			typeSpeed: 100,
+			typeSpeed: 50,
 			backSpeed: 0
 		});
 		
